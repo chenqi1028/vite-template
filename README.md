@@ -1,7 +1,7 @@
 # vite-template
 vite template
 
-add Vuex、Vue Router and Sass
+include Vuex、Vue Router and Sass
 
 npm install 
 
