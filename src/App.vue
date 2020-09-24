@@ -11,9 +11,4 @@
 	text-align: center;
 	overflow: hidden;
 }
-
-.nav {
-	color: #000;
-	text-decoraction: none;
-}
 </style>
